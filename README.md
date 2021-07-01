@@ -2,7 +2,7 @@
 A cross-platform application to help individuals accomplish goals of any size.
 
 Brainstorming
-  "To do" feature but random within some scope of time, also repeatable
+-"To do" feature but random within some scope of time, also repeatable
 		this is so that the task is simplified but not monotonous. Just
 		to get someone to do something semi-regularly first, eventually 
 		build upo to the desired regularity. 
